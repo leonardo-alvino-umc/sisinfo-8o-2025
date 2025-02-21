@@ -1,0 +1,323 @@
+[33mcommit fe9cf162bdc4a10913322e4697a9792629f4cb37[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature/local-daviSilva[m[33m)[m
+Author: aluno cmc <alunocmc@umc.br>
+Date:   Thu Feb 20 20:58:51 2025 -0300
+
+    Comit Davi Silva
+
+[33mcommit 406a577f1609654f51468a27c4ddb45014c3b77b[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/develop[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: aluno cmc <alunocmc@umc.br>
+Date:   Thu Feb 20 20:42:00 2025 -0300
+
+    comit local leonardo alvino
+
+[33mcommit 2bbb8ebd48cd3a9b73ad2477ed8b3c8962dc8c76[m
+Merge: 4451ba0 93a018d
+Author: DhericUMC <11212501600@alunos.umc.br>
+Date:   Thu Feb 20 20:30:46 2025 -0300
+
+    Merge pull request #32 from leonardo-alvino-umc/release/1.0
+    
+    Release/1.0
+
+[33mcommit 93a018d195f3889c7f6e3e2d8734237d5ec91b31[m
+Merge: ddfb91b 0ffc5a3
+Author: leonardo-alvino-umc <leonardoalvino@umc.br>
+Date:   Thu Feb 20 20:27:06 2025 -0300
+
+    Merge pull request #30 from leonardo-alvino-umc/feature/rafael-akio
+    
+    Create rafael-akio
+
+[33mcommit ddfb91b5296a0517f31e5de90c4a5b7237f47487[m
+Merge: 4645590 aadc957
+Author: leonardo-alvino-umc <leonardoalvino@umc.br>
+Date:   Thu Feb 20 20:26:46 2025 -0300
+
+    Merge pull request #31 from leonardo-alvino-umc/feature/nicole-virna
+    
+    Create nicole-virna
+
+[33mcommit 46455907f9db4c3f92d3294dc27345ed56702378[m
+Merge: c692217 a497b93
+Author: leonardo-alvino-umc <leonardoalvino@umc.br>
+Date:   Thu Feb 20 20:26:08 2025 -0300
+
+    Merge pull request #28 from leonardo-alvino-umc/feature/guilhermesouza
+    
+    Create guilherme-souza
+
+[33mcommit c69221775a080b51b2f462e9c81d90a75663995f[m
+Merge: eb7dacb 52a1a85
+Author: leonardo-alvino-umc <leonardoalvino@umc.br>
+Date:   Thu Feb 20 20:25:48 2025 -0300
+
+    Merge pull request #25 from leonardo-alvino-umc/feature/gui-ferreira
+    
+    feat: adding new feature
+
+[33mcommit aadc95779d1b91a7b7bdb1533a4ebf09aa9804bf[m
+Author: Nicole Virna <111471363+nicolevirna@users.noreply.github.com>
+Date:   Thu Feb 20 20:25:35 2025 -0300
+
+    Create nicole-virna
+
+[33mcommit 52a1a85e85789824d24894dbd70c9dd259fb6ee7[m
+Author: Guilherme Ferreira <11212100671@alunos.umc.br>
+Date:   Thu Feb 20 20:25:27 2025 -0300
+
+    Update gui-ferreira
+
+[33mcommit eb7dacb5de36d95d89e783f4ef92b7a548fb0930[m
+Merge: c51bc14 d891bf0
+Author: leonardo-alvino-umc <leonardoalvino@umc.br>
+Date:   Thu Feb 20 20:25:26 2025 -0300
+
+    Merge pull request #29 from leonardo-alvino-umc/feature/beatriz
+    
+    Create beatriz-almeida
+
+[33mcommit c51bc140b2ed83989756c8fcd8cd6cc8f0975e51[m
+Merge: 3733948 4dbf68f
+Author: leonardo-alvino-umc <leonardoalvino@umc.br>
+Date:   Thu Feb 20 20:24:55 2025 -0300
+
+    Merge pull request #27 from leonardo-alvino-umc/feature/rafael-costa
+    
+    Create rafael-costa
+
+[33mcommit 0ffc5a3635ab5e10c62f114030795de1481639c2[m
+Author: RafaelHorikoshiUMC <11221201691@alunos.umc.br>
+Date:   Thu Feb 20 20:24:43 2025 -0300
+
+    Create rafael-akio
+
+[33mcommit 3733948b64569d6ba2f9f0d14ee6f30f45dbeeb8[m
+Merge: 32490da 0ce5ed6
+Author: leonardo-alvino-umc <leonardoalvino@umc.br>
+Date:   Thu Feb 20 20:24:22 2025 -0300
+
+    Merge pull request #26 from leonardo-alvino-umc/feature/caue
+    
+    Create caue
+
+[33mcommit 32490dafc0a8cf530a5b2c21c7ed8677d9136ecb[m
+Merge: 011e0d8 2f41fc1
+Author: leonardo-alvino-umc <leonardoalvino@umc.br>
+Date:   Thu Feb 20 20:23:47 2025 -0300
+
+    Merge pull request #22 from leonardo-alvino-umc/feature/luis-gustavo
+    
+    Create luis-gustavo
+
+[33mcommit a497b9333e455d2b50661293b349a5288378b55a[m
+Author: guilhermesouza00 <11212100091@alunos.umc.br>
+Date:   Thu Feb 20 20:22:27 2025 -0300
+
+    Create guilherme-souza
+
+[33mcommit 011e0d8614e52bed7f3ddda07eba0ef45c092646[m
+Merge: 6763ef6 6513b32
+Author: leonardo-alvino-umc <leonardoalvino@umc.br>
+Date:   Thu Feb 20 20:22:10 2025 -0300
+
+    Merge pull request #21 from leonardo-alvino-umc/feature/theo-cardoso
+    
+    Create theo-cardoso file
+
+[33mcommit d891bf07d97367e00e5d14ea7ced508c9c1daf75[m
+Author: Beatriz Almeida <70807422+samambea@users.noreply.github.com>
+Date:   Thu Feb 20 20:22:04 2025 -0300
+
+    Create beatriz-almeida
+
+[33mcommit 4dbf68fbf44de6064d35f7c253026b401b0fa0c0[m
+Author: CostaCSUMC <11221400214@alunos.umc.br>
+Date:   Thu Feb 20 20:21:38 2025 -0300
+
+    Create rafael-costa
+
+[33mcommit 6763ef6634cf597aac2313b63be29856230285f9[m
+Merge: c388f10 2a66f31
+Author: leonardo-alvino-umc <leonardoalvino@umc.br>
+Date:   Thu Feb 20 20:21:32 2025 -0300
+
+    Merge pull request #20 from leonardo-alvino-umc/feature/cassiano-hideki
+    
+    PR-cassiano-hideki
+
+[33mcommit 0ce5ed6a0ed25f05b6dc649aff196c013d1445ae[m
+Author: Caue-UMC <11212100093@alunos.umc.br>
+Date:   Thu Feb 20 20:21:29 2025 -0300
+
+    Create caue
+
+[33mcommit 2ec609451b431330a576c90379bb96627f0e3a96[m
+Author: Guilherme Ferreira <11212100671@alunos.umc.br>
+Date:   Thu Feb 20 20:21:23 2025 -0300
+
+    Create gui-ferreira
+
+[33mcommit c388f10207a3b4b42d4cea4e9d0ec2e025062294[m
+Merge: 6c4d3de 952679f
+Author: DhericUMC <11212501600@alunos.umc.br>
+Date:   Thu Feb 20 20:21:23 2025 -0300
+
+    Merge pull request #23 from leonardo-alvino-umc/feature/dheric
+    
+    Create dheric
+
+[33mcommit 952679ff511e6ab852e1e6cf37f90deb83824bd5[m
+Author: DhericUMC <11212501600@alunos.umc.br>
+Date:   Thu Feb 20 20:20:51 2025 -0300
+
+    Create dheric
+
+[33mcommit 2f41fc122a55e8e10d212ab558280fc77dbbebbb[m
+Author: LuisGustavoUmc <11212101553@alunos.umc.br>
+Date:   Thu Feb 20 20:20:37 2025 -0300
+
+    Create luis-gustavo
+
+[33mcommit 6513b325a5d482ba6fc06dc3dd4146b3a3c005e4[m
+Author: TheoCardo <11212101491@alunos.umc.br>
+Date:   Thu Feb 20 20:20:35 2025 -0300
+
+    Create theo-cardoso
+
+[33mcommit 6c4d3deb631e4b34c6e341817c1c4ed9eac77d2c[m
+Merge: 3be3d96 03c81ac
+Author: leonardo-alvino-umc <leonardoalvino@umc.br>
+Date:   Thu Feb 20 20:19:57 2025 -0300
+
+    Merge pull request #19 from leonardo-alvino-umc/feature/leonardo-alvino
+    
+    Create leonardo-alvino
+
+[33mcommit 2a66f31bd6b7d0d06e175d68311575b637d3e73e[m
+Author: cassianohidekiumc <11212101074@alunos.umc.br>
+Date:   Thu Feb 20 20:19:53 2025 -0300
+
+    Create cassiano-hideki
+
+[33mcommit 03c81ac7427f385ba49a0204a27ad8f0f193ab2f[m
+Author: leonardo-alvino-umc <leonardoalvino@umc.br>
+Date:   Thu Feb 20 20:19:20 2025 -0300
+
+    Create leonardo-alvino
+
+[33mcommit 3be3d965f613f8d469697d819deadac36ddd5092[m
+Merge: 74dc3f1 93c4cff
+Author: leonardo-alvino-umc <leonardoalvino@umc.br>
+Date:   Thu Feb 20 20:13:49 2025 -0300
+
+    Merge branch 'feature-luis-gustavo' into develop
+
+[33mcommit 74dc3f10c64c09e929a383122594a6bf57f5f862[m
+Author: leonardo-alvino-umc <leonardoalvino@umc.br>
+Date:   Thu Feb 20 20:13:26 2025 -0300
+
+    Update README.md
+
+[33mcommit 456350b0ddf225112b008083f4be318440601311[m
+Merge: ce8a51c eab948c
+Author: Beatriz Almeida <70807422+samambea@users.noreply.github.com>
+Date:   Thu Feb 20 20:10:12 2025 -0300
+
+    Merge branch 'feature-beatriz' into develop
+
+[33mcommit eab948cd94a4d188d247dd4638bbefc2f47f088f[m
+Author: Beatriz Almeida <70807422+samambea@users.noreply.github.com>
+Date:   Thu Feb 20 20:06:09 2025 -0300
+
+    Update README.md
+
+[33mcommit 152f37f0568b0a47fee97bd122fccc0aec3397e8[m
+Author: Beatriz Almeida <70807422+samambea@users.noreply.github.com>
+Date:   Thu Feb 20 20:05:40 2025 -0300
+
+    Delete feature-rafael-akio
+
+[33mcommit ce8a51cfd467c1c2c5ad6499b2d1c282edd30d7b[m
+Merge: a6aaded 2e910e7
+Author: leonardo-alvino-umc <leonardoalvino@umc.br>
+Date:   Thu Feb 20 20:05:24 2025 -0300
+
+    Merge pull request #5 from leonardo-alvino-umc/feature-gui-ferreira
+    
+    feat: update readme, adding my name
+
+[33mcommit 2e910e71ed69c766935cfdcc31da3638ee973f2f[m
+Merge: d790c94 a6aaded
+Author: leonardo-alvino-umc <leonardoalvino@umc.br>
+Date:   Thu Feb 20 20:05:19 2025 -0300
+
+    Merge branch 'develop' into feature-gui-ferreira
+
+[33mcommit d790c94783679cea9c853776569985337ee8e60a[m
+Author: Guilherme Ferreira <11212100671@alunos.umc.br>
+Date:   Thu Feb 20 20:04:25 2025 -0300
+
+    Update README.md
+
+[33mcommit a6aaded38fa70680b448d8e56829eb31f59f116c[m
+Author: leonardo-alvino-umc <leonardoalvino@umc.br>
+Date:   Thu Feb 20 20:02:42 2025 -0300
+
+    Update README.md
+
+[33mcommit 71076ca30970e6114d35ff5ac93e5a3bda8eecdb[m
+Author: Beatriz Almeida <70807422+samambea@users.noreply.github.com>
+Date:   Thu Feb 20 19:55:55 2025 -0300
+
+    Update README.md
+
+[33mcommit 8c8f71b342b9df01fe304d4e7736d88b3cbe8c33[m
+Author: Guilherme Ferreira <11212100671@alunos.umc.br>
+Date:   Thu Feb 20 19:54:23 2025 -0300
+
+    feat: new feature
+
+[33mcommit 93c4cff5b745fb91aa897b1906e777c693f91bca[m
+Author: LuisGustavoUmc <11212101553@alunos.umc.br>
+Date:   Thu Feb 20 19:53:33 2025 -0300
+
+    Update README.md
+
+[33mcommit 8bb7b16e4625e508a91cd915c63056dac2695b9a[m
+Author: RafaelHorikoshiUMC <11221201691@alunos.umc.br>
+Date:   Thu Feb 20 19:53:14 2025 -0300
+
+    Create feature-rafael-akio
+
+[33mcommit 1622c36fa29fc437f7b2060d4fdb8a2a44525a48[m
+Merge: 478e745 0fa75d2
+Author: leonardo-alvino-umc <leonardoalvino@umc.br>
+Date:   Thu Feb 20 19:46:01 2025 -0300
+
+    Merge pull request #1 from leonardo-alvino-umc/feature-leonardo
+    
+    Adicionando Feature - Leonardo Alvino
+
+[33mcommit 0fa75d286ed9e273230dffcf5cc575893912fc9b[m
+Author: leonardo-alvino-umc <leonardoalvino@umc.br>
+Date:   Thu Feb 20 19:42:58 2025 -0300
+
+    Update README.md
+
+[33mcommit 478e745023eb641cf672749af4f12932005628a6[m
+Author: leonardo-alvino-umc <leonardoalvino@umc.br>
+Date:   Thu Feb 20 19:40:56 2025 -0300
+
+    Update README.md
+
+[33mcommit 4451ba08722f382ebf08bd2e520774ae1cd90952[m
+Author: leonardo-alvino-umc <leonardoalvino@umc.br>
+Date:   Thu Feb 20 19:40:38 2025 -0300
+
+    Update README.md
+
+[33mcommit 28b128fd1233adf01aa10f47af532950838e6b2e[m
+Author: leonardo-alvino-umc <leonardoalvino@umc.br>
+Date:   Thu Feb 20 19:38:24 2025 -0300
+
+    Initial commit
